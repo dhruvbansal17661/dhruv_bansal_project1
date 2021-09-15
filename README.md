@@ -1,4 +1,5 @@
-The project helps you predict the re-sale value of your car. 
+The project helps you predict the re-sale value of your car.
+
 There are various parameters like year of purchase, showroom price, kilometers driven, number of previous owners fuel type ect which help the model to predict the prices.
 
 You can clone the repository and execute the app.py file to run the application.
