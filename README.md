@@ -9,3 +9,5 @@ You can clone the repository and execute the app.py file to run the application.
 The app is deployed in the form of a web application using Flask.
 
 You can access the working application at https://dhruv-bansal-project.herokuapp.com/
+
+![Screenshot (24)](https://user-images.githubusercontent.com/43857178/133420065-b9317cda-ec7c-46e8-bf1b-ebd801837022.png)
