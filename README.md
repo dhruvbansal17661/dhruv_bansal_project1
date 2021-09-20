@@ -17,3 +17,8 @@ INPUT :-
 OUTPUT :-
 
 ![Screenshot (24)](https://user-images.githubusercontent.com/43857178/133420292-d15cfc63-1e08-4a42-a0b3-0252f7314ed6.png)
+
+
+
+FLOWCHART :-
+![Untitled Diagram (2)](https://user-images.githubusercontent.com/43857178/133996981-3e2e4b73-31b8-4c9f-86ce-dd1cf872cd39.jpg)
