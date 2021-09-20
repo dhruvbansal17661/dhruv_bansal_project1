@@ -10,7 +10,10 @@ The app is deployed in the form of a web application using Flask.
 
 You can access the working application at https://dhruv-bansal-project.herokuapp.com/ (The link can take a few minutes at times)
 
+INPUT :-
+
 ![Screenshot (23)](https://user-images.githubusercontent.com/43857178/133420277-632aa66f-4b38-4568-931e-996b2e40a2d8.png)
 
+OUTPUT :-
 
 ![Screenshot (24)](https://user-images.githubusercontent.com/43857178/133420292-d15cfc63-1e08-4a42-a0b3-0252f7314ed6.png)
